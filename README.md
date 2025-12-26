@@ -44,9 +44,8 @@ Unlike previous versions that used volatile RAM storage, this API is now integra
 
 The API is live on Render.
 
-*Live Endpoint*: https://filmes-backend-pal2.onrender.com/films
-
-*Production Command*: uvicorn main:app --host 0.0.0.0 --port $PORT
+*Live Endpoint: https://filmes-backend-pal2.onrender.com/films
+*Production Command: uvicorn main:app --host 0.0.0.0 --port $PORT
 
 ## 🔒 Security Configuration
 
